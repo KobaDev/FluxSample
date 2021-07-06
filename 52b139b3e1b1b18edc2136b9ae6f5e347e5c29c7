@@ -1,0 +1,1 @@
+{"jobID":"4b4cf14a-6c9f-67bf-0598-012b8c30c133","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"laflux:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
